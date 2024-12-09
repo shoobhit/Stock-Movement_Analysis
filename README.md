@@ -25,7 +25,7 @@ Follow these steps to set up and run the project on your local machine:
 
 1. Clone the repository:
 
-   git clone <repository-url>
+   git clone https://github.com/shoobhit/Stock-Movement_Analysis.git
    cd stock-sentiment-analysis
 
 2. Install required python libraries
